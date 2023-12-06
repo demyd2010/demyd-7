@@ -69,7 +69,7 @@
 	  <li class="puzzle-item"><img src="puzzle-image/puzzle2_J.jpg" alt="Piece J"></li>
 	  <li class="puzzle-item"><img src="puzzle-image/puzzle2_H.jpg" alt="Piece H"></li>
 	  <li class="puzzle-item"><img src="puzzle-image/puzzle2_I.jpg" alt="Piece I"></li>
-    <li class="puzzle-item faulty-piece"><img src="puzzle-image/puzzle2_C.jpg" alt="Faulty Piece C"></li>
+    	  <li class="puzzle-item faulty-piece"><img src="puzzle-image/puzzle2_C.jpg" alt="Faulty Piece C"></li>
         </ul>
       </div>
     </div>
